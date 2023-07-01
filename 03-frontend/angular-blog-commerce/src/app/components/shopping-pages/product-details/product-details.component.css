@@ -1,0 +1,20 @@
+
+.list-section{
+    padding-bottom: 100px;
+    margin-left: 150px;
+
+    background-color: var(--secondary-color);
+}
+.price{
+    margin:15px 0 0;
+    font-weight:800;
+    color:#0da8e4
+}
+
+.detail-section{
+    padding-bottom: 100px;
+}
+
+.detail-img{
+    width: 30%;
+}

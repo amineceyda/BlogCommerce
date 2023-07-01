@@ -1,0 +1,30 @@
+.sidenav {
+    height: 100%;
+    width: 300px;
+    position: absolute;
+    z-index: 1;
+    background-color: var(--navbar-footer-color);
+    overflow-x: hidden;
+  }
+  
+  
+  /* Style the sidenav links and the dropdown button */
+  .sidenav a {
+    padding: 6px 8px 6px 16px;
+    text-decoration: none;
+    font-size: 20px;
+    color: var(--primary-color);
+    display: block;
+    border: none;
+    background: none;
+    width:100%;
+    text-align: left;
+    cursor: pointer;
+    outline: none;
+  }
+  
+  /* On mouse-over */
+  .sidenav a:hover {
+    color: var(--secondary-color);
+  }
+  
